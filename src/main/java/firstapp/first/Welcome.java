@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Welcome {
     @RequestMapping("/welcome")
     public String Welcome(){
-        return "Hi , this is my first app";
+        return "HHwllo Sonu , successed ";
 
 
     }
